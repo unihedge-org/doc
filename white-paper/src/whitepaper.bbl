@@ -1,0 +1,117 @@
+\begin{thebibliography}{10}
+
+\bibitem{Wang}
+Zhen Wang.
+\newblock A decentralized prediction market platform based on blockchain and
+  masternode technologies.
+\newblock {\em China Communications}, 17(9):25--33, 2020.
+
+\bibitem{Augur}
+Jack Peterson, Joseph Krug, Micah Zoltu, Austin~K Williams, and Stephanie
+  Alexander.
+\newblock Augur: a decentralized oracle and prediction market platform (v2. 0).
+\newblock {\em Whitepaper, https://augur. net/whitepaper. pdf}, 2019.
+
+\bibitem{Bitcoin}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system.
+\newblock Technical report, Manubot, 2019.
+
+\bibitem{Ethereum}
+Vitalik Buterin.
+\newblock {A next generation smart contract {\&} decentralized application
+  platform}.
+\newblock Technical report, 2014.
+
+\bibitem{Uniswap}
+Hayden Adams.
+\newblock Uniswap.
+\newblock {\em URl: https://uniswap.org/docs}, 2019.
+
+\bibitem{Aave}
+Kulechov Stani.
+\newblock Aave.
+\newblock {\em URl: https://aave.com/}, 2020.
+
+\bibitem{Synthetix}
+Kain Warwick.
+\newblock Synthetix.
+\newblock {\em URl: https://docs.synthetix.io/litepaper}, 2018.
+
+\bibitem{Gnosis}
+Martin Köppelmann.
+\newblock Gnosis.
+\newblock {\em URl:
+  https://github.com/gnosis/research/blob/master/gnosis-whitepaper.pdf}, 2017.
+
+\bibitem{Polymarket}
+Shayne Coplan.
+\newblock Polymarket.
+\newblock {\em URl: https://docs.polymarket.com/faq/}, 2020.
+
+\bibitem{Chen2019DecentralizedFB}
+Yuanchun Chen and C.~Bellavitis.
+\newblock Decentralized finance: Blockchain technology and the quest for an
+  open financial system.
+\newblock {\em Stevens Institute of Technology - School of Business Research
+  Paper Series}, 2019.
+
+\bibitem{Pennock}
+David~M Pennock.
+\newblock A dynamic pari-mutuel market for hedging, wagering, and information
+  aggregation.
+\newblock In {\em Proceedings of the 5th ACM Conference on Electronic
+  Commerce}, pages 170--179, 2004.
+
+\bibitem{Berg}
+Joyce~E Berg and Thomas~A Rietz.
+\newblock Prediction markets as decision support systems.
+\newblock {\em Information systems frontiers}, 5(1):79--93, 2003.
+
+\bibitem{Luckner}
+Stefan Luckner.
+\newblock Prediction markets: Fundamentals, key design elements, and
+  applications.
+\newblock {\em BLED 2008 Proceedings}, page~27, 2008.
+
+\bibitem{Madhavan}
+Ananth Madhavan.
+\newblock Trading mechanisms in securities markets.
+\newblock {\em the Journal of Finance}, 47(2):607--641, 1992.
+
+\bibitem{Spann}
+Martin Spann and Bernd Skiera.
+\newblock Internet-based virtual stock markets for business forecasting.
+\newblock {\em Management science}, 49(10):1310--1326, 2003.
+
+\bibitem{Hanson}
+Robin Hanson.
+\newblock Combinatorial information market design.
+\newblock {\em Information Systems Frontiers}, 5(1):107--119, 2003.
+
+\bibitem{Posner}
+Eric~A Posner and E~Glen Weyl.
+\newblock {\em Radical Markets}.
+\newblock Princeton University Press, 2019.
+
+\bibitem{Riady}
+Yos Riady.
+\newblock Harberger taxes on ethereum.
+\newblock {\em URl: https://yos.io/2018/11/18/harberger-taxes/}, 2019.
+
+\bibitem{Weinhardt}
+Christof Weinhardt, Dirk Neumann, and Carsten Holtmann.
+\newblock Germany: computer-aided market engineering.
+\newblock {\em Communications of the ACM}, 49(7):79--79, 2006.
+
+\bibitem{Krishna}
+Vijay Krishna.
+\newblock {\em Auction theory}.
+\newblock Academic press, 2009.
+
+\bibitem{Honeyswap}
+Igor Barinov.
+\newblock Honeyswap.
+\newblock {\em URl: https://honeyswap.org/}, 2019.
+
+\end{thebibliography}

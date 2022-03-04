@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: whitepaper.aux
+The style file: unsrt.bst
+Database file #1: whitepaper.bib
+Warning--empty institution in Ethereum
+You've used 21 entries,
+            1791 wiz_defined-function locations,
+            572 strings with 5934 characters,
+and the built_in function-call counts, 3708 in all, are:
+= -- 339
+> -- 120
+< -- 2
++ -- 52
+- -- 31
+* -- 182
+:= -- 621
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 193
+empty$ -- 386
+format.name$ -- 31
+if$ -- 820
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 108
+num.names$ -- 21
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 78
+stack$ -- 0
+substring$ -- 174
+swap$ -- 34
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 37
+width$ -- 23
+write$ -- 221
+(There was 1 warning)
